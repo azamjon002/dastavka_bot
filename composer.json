@@ -1,0 +1,22 @@
+{
+    "name": "azamjon/dastavka_bot",
+    "autoload": {
+        "psr-4": {
+            "Azamjon\\DastavkaBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azamjon002",
+            "email": "azamjonqochqorov002@gmail.com"
+        }
+    ],
+    "require": {
+        "telegram-bot/api": "^2.3",
+        "ext-mysqli": "*",
+        "ext-json": "*",
+        "ext-curl": "*"
+    }
+
+
+}
